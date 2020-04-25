@@ -10,5 +10,5 @@ int main()
     {
         fact=fact+(i*i);
     }
-    cout<<i*i;
+    cout<<fact;
 }
